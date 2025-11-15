@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f070166-dd01-4508-a4c1-7b2070008ef1" name="Changes" comment="yaml updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="GitHub Workflow" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BigBabyofTel/learn-cicd-starter&quot;,
+    &quot;accountId&quot;: &quot;d58c3b59-deb3-4b49-b158-b1654eda7917&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;BigBabyofTel&quot;,
+    &quot;repository&quot;: &quot;learn-cicd-starter&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35HQUDhk9JwcIx3V14ZlyilsGIM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Test.TestGetAPIKey in github.com/bootdotdev/learn-cicd-starter/internal/auth.executor": "Run",
+    "Go Test.TestGetAPIKeyEmptyKey in github.com/bootdotdev/learn-cicd-starter/internal/auth.executor": "Run",
+    "Go Test.TestGetAPIKeyInvalidFormat in github.com/bootdotdev/learn-cicd-starter/internal/auth.executor": "Run",
+    "Go Test.TestGetAPIKeyMissingHeader in github.com/bootdotdev/learn-cicd-starter/internal/auth.executor": "Run",
+    "Go Test.go test github.com/bootdotdev/learn-cicd-starter/internal/auth.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.GoLinterPluginOnboarding": "true",
+    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "#6 on addtests",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/bigbabyoftel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go Test.go test github.com/bootdotdev/learn-cicd-starter/internal/auth">
+    <configuration name="TestGetAPIKey in github.com/bootdotdev/learn-cicd-starter/internal/auth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-cicd-starter" />
+      <working_directory value="$PROJECT_DIR$/internal/auth" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestGetAPIKey\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetAPIKeyEmptyKey in github.com/bootdotdev/learn-cicd-starter/internal/auth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-cicd-starter" />
+      <working_directory value="$PROJECT_DIR$/internal/auth" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestGetAPIKeyEmptyKey\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetAPIKeyInvalidFormat in github.com/bootdotdev/learn-cicd-starter/internal/auth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-cicd-starter" />
+      <working_directory value="$PROJECT_DIR$/internal/auth" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestGetAPIKeyInvalidFormat\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetAPIKeyMissingHeader in github.com/bootdotdev/learn-cicd-starter/internal/auth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-cicd-starter" />
+      <working_directory value="$PROJECT_DIR$/internal/auth" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestGetAPIKeyMissingHeader\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/bootdotdev/learn-cicd-starter/internal/auth" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learn-cicd-starter" />
+      <working_directory value="$PROJECT_DIR$/internal/auth" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+        <item itemvalue="Go Test.TestGetAPIKeyEmptyKey in github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+        <item itemvalue="Go Test.TestGetAPIKeyInvalidFormat in github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+        <item itemvalue="Go Test.TestGetAPIKeyMissingHeader in github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+        <item itemvalue="Go Test.TestGetAPIKey in github.com/bootdotdev/learn-cicd-starter/internal/auth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-f466f9b0953e-146d08934cbf-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-252.27397.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-GO-252.27397.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f070166-dd01-4508-a4c1-7b2070008ef1" name="Changes" comment="" />
+      <created>1762764531565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762764531565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yaml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="yaml updated" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
